@@ -1,0 +1,25 @@
+body {
+	background-color: #f8f8f8;
+	text-align: center;
+}
+
+.regform {
+	width: 320px;
+	margin: 0 auto;
+	padding: 15px;
+	background-color: #fff;
+}
+
+.out {
+	padding: 30px;
+}
+
+input[type="text"] {
+	border: 1px #ccc;
+}
+input[type="button"] {
+	background-color: #1cdc11;
+}
+input[type="button"]:hover {
+	background-color: #14a20a;
+}
